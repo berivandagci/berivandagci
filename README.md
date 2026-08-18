@@ -7,15 +7,15 @@
 
 - 👯 I’m looking to collaborate on [iOS Apps & Swift Projects](https://github.com/berivandagci)
 
-- 👨‍💻 All of my projects are available at [[https://github.com/berivandagci](https://github.com/berivandagci)]([https://github.com/berivandagci]
+- 👨‍💻 All of my projects are available at [[https://github.com/berivandagci](https://github.com/berivandagci)]
 
-- 📝 I regularly write articles on [[https://medium.com/@berivandagci0108](https://medium.com/@berivandagci0108)]([https://medium.com/@berivandagci0108]
+- 📝 I regularly write articles on [[https://medium.com/@berivandagci0108]
 
 - 💬 Ask me about **Swift, Java, React, Python**
 
 - 📫 How to reach me **berivandagci0108@gmail.com**
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/berivan-dağcı-9993a7223/](https://www.linkedin.com/in/berivan-dağcı-9993a7223/)]([https://www.linkedin.com/in/berivan-dağcı-9993a7223/](https://www.linkedin.com/in/berivan-dağcı-9993a7223/))
+- 📄 Know about my experiences [[https://www.linkedin.com/in/berivan-dağcı-9993a7223/]
 
 - ⚡ Fun fact **I love researching and exploring new technologies!**
 
