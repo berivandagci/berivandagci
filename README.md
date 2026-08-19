@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berivan Dağcı</h1>
 <h3 align="center">iOS Developer | Computer Engineering Graduate</h3>
 
-- 🔭 I’m currently working on [InstaClone](https://github.com/berivandagci/InstaClone)
+- 🔭 I’m currently working on [Crypto](https://github.com/berivandagci/Crypto)
 
 - 🌱 I’m currently learning **SwiftUI, Combine, UIKit & iOS Architecture**
 
