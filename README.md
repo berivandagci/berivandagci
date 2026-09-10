@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [[https://medium.com/@berivandagci0108]
 
-- 💬 Ask me about **Swift, Java, React, Python**
+- 💬 Ask me about **Swift, Java, 
 
 - 📫 How to reach me **berivandagci0108@gmail.com**
 
