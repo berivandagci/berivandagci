@@ -8,7 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [github.com/berivandagci](https://github.com/berivandagci)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@berivandagci0108)
 
 - 💬 Ask me about **Swift, SwiftUI, UIKit, iOS Development**
 
